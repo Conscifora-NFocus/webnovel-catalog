@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "id": "waste-land-border-inspector",
+      "title": "Waste Land Border Inspector",
+      "author": "斤斤斤, Jin Jin Jin",
+      "description": "2025 • Продолжается • 436 глав.",
+      "coverUrl": "https://raw.githubusercontent.com/Conscifora-NFocus/REPO/main/covers/waste-land-border-inspector.jpg",
+      "tags": ["боевик", "мистика", "постапокалиптика"],
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "Глава 1. Город Счастья — ваше лучшее убежище в пустоши! (1)",
+          "order": 1,
+          "contentPath": "/books/waste-land-border-inspector/chapter-1.md",
+          "excerpt": "Стоял душный июль..."
+        }
+      ]
+    }
+  ]
+}
